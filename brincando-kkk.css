@@ -1,0 +1,31 @@
+.minha-imagem {
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+    border-radius: 20px;
+}
+h1{
+    font-size: 80px;
+     text-transform: uppercase;
+      text-align: center;
+}
+p{
+    font-size: 30px;
+    text-align: justify;
+    text-align: center;
+    line-height: 1.6;
+}
+h2{
+    font-size: 60px;
+     text-align: center;
+     font-variant: small-caps;
+}
+h3{
+    font-size: 40px;
+     text-align: end;
+     font-variant: small-caps;
+}
+body{
+    padding: 150px;
+}
